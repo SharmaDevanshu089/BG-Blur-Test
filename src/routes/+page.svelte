@@ -50,8 +50,9 @@
   font-weight: 400;
 
   color: #0f0f0f;
-  /* background-color: #f6f6f6; */
-
+  background-color: #f6f6f623;
+  /* background: rgba(43, 41, 41, 0.253);
+  backdrop-filter: blur(20px); */
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -136,7 +137,9 @@ button {
 @media (prefers-color-scheme: dark) {
   :root {
     color: #f6f6f6;
-    /* background-color: #2f2f2f; */
+    /* background-color: #2d0de458; */
+    backdrop-filter: blur(20px); 
+-webkit-backdrop-filter: blur(20px);
   }
 
   a:hover {

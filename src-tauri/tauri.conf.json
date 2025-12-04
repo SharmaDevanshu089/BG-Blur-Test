@@ -16,7 +16,10 @@
         "width": 800,
         "height": 600,
         "transparent": true,
-        "alwaysOnTop": true
+        "alwaysOnTop": false,
+        "focus": false,
+        "backgroundColor": null,
+
       }
     ],
     "security": {
