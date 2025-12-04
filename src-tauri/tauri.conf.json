@@ -18,8 +18,7 @@
         "transparent": true,
         "alwaysOnTop": false,
         "focus": false,
-        "backgroundColor": null,
-
+        "backgroundColor": null
       }
     ],
     "security": {
